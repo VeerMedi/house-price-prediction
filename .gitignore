@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables file
+.env
+
+# Editor folders
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Test and coverage
+.pytest_cache/
